@@ -5,3 +5,4 @@ This repository hosts different projects and challenges from the Oracle Next Edu
 
 
 ## List of proyects
+1. [Guessing the secret number](https://app.aluracursos.com/course/logica-programacion-sumergete-programacion-javascript)
