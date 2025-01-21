@@ -5,3 +5,4 @@ This repository hosts different projects and challenges from the Oracle Next Edu
 1. [Guessing the secret number](https://github.com/ruesga-99/oracle_one_2025/tree/main/proyect_01)
 
 ## List of challenges
+- challenge_01: Driving License
