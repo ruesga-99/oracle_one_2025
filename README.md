@@ -15,3 +15,7 @@ This repository hosts different projects and challenges from the Oracle Next Edu
 - challenge_04: Various if-else, while and math tasks 
 
 ## Specialization Phase: Backend Development
+
+### List of projects
+
+### List of challenges
